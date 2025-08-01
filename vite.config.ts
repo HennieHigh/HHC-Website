@@ -33,7 +33,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
 export default defineConfig(({ mode }: ConfigEnv) => ({
-  base: '/HHC-Website/',
+  base: '/',
   server: {
     host: "::",
     port: 8080,
