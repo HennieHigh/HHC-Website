@@ -1,10 +1,14 @@
-import { defineConfig } from "vite";
+import { defineConfig, type ConfigEnv } from "vite";
 import react from "@vitejs/plugin-react-swc";
-import path from "path";
+import path, { dirname } from "path";
+import { fileURLToPath } from "url";
 import { componentTagger } from "lovable-tagger";
 
-// https://vitejs.dev/config/
-export default defineConfig(({ mode }) => ({
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+export default defineConfig(({ mode }: ConfigEnv) => ({
+  base: '/HHC-Website/',
   server: {
     host: "::",
     port: 8080,
