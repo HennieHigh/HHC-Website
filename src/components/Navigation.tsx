@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { Linkedin } from "lucide-react";
+import hhLogo from "@/assets/hh-logo.png";
 
 const Navigation = () => {
   return (
@@ -9,7 +10,7 @@ const Navigation = () => {
           {/* Logo */}
           <div className="flex items-center space-x-3">
             <img 
-              src="/src/assets/hh-logo.png" 
+              src={hhLogo} 
               alt="Henrietta High Consulting Ltd" 
               className="h-12 w-auto"
             />
