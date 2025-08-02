@@ -13,7 +13,7 @@ const Contact = () => {
               Get In Touch
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-              Ready to discuss your executive search needs? Let's start a conversation about how we can help you find exceptional talent.
+              Ready to discuss your executive search needs? Let's start a conversation about how I can help you find exceptional talent.
             </p>
           </div>
           

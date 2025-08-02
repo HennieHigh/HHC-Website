@@ -7,7 +7,7 @@ const Services = () => {
     {
       icon: Search,
       title: "Executive Search",
-      description: "Working as a partner with you to seek out and attract executive and non-executive talent. We work across sectors covering multiple jurisdictions with deep established networks.",
+      description: "Working as a partner with you to seek out and attract executive and non-executive talent. Working across sectors covering multiple jurisdictions with deep established networks.",
       features: [
         "Board-level appointments",
         "C-suite executive search", 
