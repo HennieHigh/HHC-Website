@@ -27,7 +27,7 @@ const Footer = () => {
             
             {/* Services */}
             <div className="space-y-4">
-              <h4 className="text-lg font-semibold">Our Services</h4>
+              <h4 className="text-lg font-semibold">Services</h4>
               <ul className="space-y-2 text-sm opacity-80">
                 <li>Executive Search</li>
                 <li>Succession Planning</li>
@@ -39,7 +39,7 @@ const Footer = () => {
             
             {/* Connect */}
             <div className="space-y-4">
-              <h4 className="text-lg font-semibold">Connect With Us</h4>
+              <h4 className="text-lg font-semibold">Connect With Me</h4>
               <div className="space-y-3">
                 <a 
                   href="https://www.linkedin.com/in/henriettahigh/" 

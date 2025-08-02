@@ -49,7 +49,7 @@ const Services = () => {
           {/* Section Header */}
           <div className="text-center mb-16">
             <h2 className="text-4xl md:text-5xl font-bold text-foreground mb-6">
-              Our Services
+              Services
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
               Comprehensive executive search and recruitment solutions tailored to your organization's unique needs
@@ -90,7 +90,7 @@ const Services = () => {
                 Why Choose Henrietta High Consulting?
               </h3>
               <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-                Our approach combines deep industry knowledge with a commitment to excellence
+                My approach combines deep industry knowledge with a commitment to excellence
               </p>
             </div>
             

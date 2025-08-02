@@ -52,7 +52,7 @@ const Hero = () => {
               className="text-lg px-8 py-6"
               onClick={() => document.getElementById('services')?.scrollIntoView({ behavior: 'smooth' })}
             >
-              View Our Expertise
+              View My Expertise
             </Button>
           </div>
           

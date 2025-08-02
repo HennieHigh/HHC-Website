@@ -13,7 +13,7 @@ const About = () => {
               About Henrietta High Consulting
             </h2>
             <p className="text-xl text-muted-foreground max-w-3xl mx-auto leading-relaxed">
-              Established in 2003, we bring more than 20 years of executive search and selection 
+              Established in 2003, I bring more than 20 years of executive search and selection 
               experience, gained from working in established search firms and as an independent search provider.
             </p>
           </div>
@@ -56,8 +56,8 @@ const About = () => {
                 <div>
                   <h3 className="text-xl font-semibold text-foreground mb-2">Proven Experience</h3>
                   <p className="text-muted-foreground">
-                    We have a successful track record of working with organisations in the UK and globally, 
-                    with a large number of repeat clients whose continued satisfaction is driven by our 
+                    With a successful track record of working with organisations in the UK and globally, 
+                    I have large number of repeat clients whose continued satisfaction is driven by 
                     consistent delivery of excellent results.
                   </p>
                 </div>
@@ -70,7 +70,7 @@ const About = () => {
                 <div>
                   <h3 className="text-xl font-semibold text-foreground mb-2">Global Reach</h3>
                   <p className="text-muted-foreground">
-                    We work across multiple sectors covering various jurisdictions with deep established 
+                    I work across multiple sectors covering various jurisdictions with deep established 
                     networks, and the ability to identify new talent and rising stars in your industry.
                   </p>
                 </div>
@@ -83,8 +83,8 @@ const About = () => {
                 <div>
                   <h3 className="text-xl font-semibold text-foreground mb-2">Unrivalled Expertise</h3>
                   <p className="text-muted-foreground">
-                    We bring unrivalled expertise in senior talent acquisition, working as true partners 
-                    with our clients to deliver exceptional results in executive search and selection.
+                    I bring unrivalled expertise in senior talent acquisition, working as a true partner 
+                    with clients to deliver exceptional results in executive search and selection.
                   </p>
                 </div>
               </div>

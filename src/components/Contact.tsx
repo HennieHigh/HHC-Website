@@ -24,7 +24,7 @@ const Contact = () => {
               <div>
                 <h3 className="text-2xl font-bold text-foreground mb-6">Let's Discuss Your Needs</h3>
                 <p className="text-lg text-muted-foreground mb-8 leading-relaxed">
-                  With over 20 years of experience in executive search, we're here to help you find the right talent for your organization. Reach out to discuss your specific requirements.
+                  With over 20 years of experience in executive search, I'm here to help you find the right talent for your organization. Reach out to discuss your specific requirements.
                 </p>
               </div>
               
@@ -57,7 +57,7 @@ const Contact = () => {
                       href="mailto:henrietta@highconsulting.co.uk" 
                       className="text-primary hover:text-primary-deep transition-smooth"
                     >
-                      henrietta@highconsulting.co.uk
+                      Please get in touch with the contact form
                     </a>
                   </div>
                 </div>
@@ -78,7 +78,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h4 className="font-semibold text-foreground">Response Time</h4>
-                    <p className="text-muted-foreground">We respond to all inquiries within 24 hours</p>
+                    <p className="text-muted-foreground">I respond to all inquiries promptly</p>
                   </div>
                 </div>
               </div>
@@ -96,7 +96,7 @@ const Contact = () => {
                 <CardContent className="space-y-6">
                   <p className="text-center text-muted-foreground">
                     Whether you're looking for executive talent or considering new opportunities, 
-                    we'd love to hear from you.
+                    I'd love to hear from you.
                   </p>
                   
                   <div className="space-y-4">
